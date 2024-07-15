@@ -144,6 +144,27 @@ font-size: 24px;
 margin-top: 20px;
 }
 
+.buyticketsbutton:hover {
+  border: black;
+  padding: 20px;
+  border-style: solid;
+  max-width: 123px;
+  font-weight: bold;
+  font-size: 24px;
+  margin-top: 20px;
+  background-color: #DEDEDE;
+  }
+
+.buyticketsbutton a {
+  text-decoration: none;
+  color: black;
+}
+
+.buyticketsbutton a:hover {
+  text-decoration: underline;
+  color: black;
+}
+
 .buyticketsbuttondisabled {
   border: grey;
   padding: 20px;
